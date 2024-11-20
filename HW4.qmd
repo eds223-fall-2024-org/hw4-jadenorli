@@ -1,0 +1,43 @@
+---
+title: "Homework Assignment Four"
+subtitle: "Prioritizing Potential Aquaculture"
+author: "Jaden Orli"
+date: last-modified
+execute: 
+  eval: true
+format:
+  html:
+    toc: true
+editor_options: 
+  chunk_output_type: inline
+embed-resources: true
+---
+
+<style type="text/css">
+
+h1.title {
+  font-size: 38px;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+h4.author {
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+/* Whole document: */
+body{
+  font-family: "Times New Roman", Times, serif;
+}
+/* Headers */
+h1,h2,h3,h4,h5,h6{
+  font-family: "Times New Roman", Times, serif;
+}
+</style>
+
+
+# I. Load Libraries
+```{r}
+
+```
+
